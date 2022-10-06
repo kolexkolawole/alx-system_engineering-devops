@@ -1,3 +1,1 @@
-#!/bin/bash
-application/octet-stream
-data
+file -C -m application/octet-stream
