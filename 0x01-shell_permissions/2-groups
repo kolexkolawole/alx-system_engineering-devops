@@ -1,2 +1,2 @@
 #!/bin/bash
-groups
+ls julien adm cdrom sudo dip plugdev lpadmin sambashare
