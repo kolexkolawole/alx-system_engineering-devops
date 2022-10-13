@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd
-text/plain
+pwd text/plain
